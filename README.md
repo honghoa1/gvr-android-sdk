@@ -23,5 +23,4 @@ SDK releases are availble from the
 Please note, we do not accept pull requests.
 # CodeScene
 
-[![](https://codescene.io/projects/5862/status.svg) 
-Get more details at **codescene.io**.](https://codescene.io/projects/5862/jobs/16584/results)
+[![](https://codescene.io/projects/5862/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5862/jobs/16584/results)
